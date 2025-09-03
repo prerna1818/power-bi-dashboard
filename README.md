@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 This project is an interactive E-Commerce Sales Dashboard built using Power BI, designed to help businesses analyze sales trends, track performance, and unlock hidden revenue opportunities.  
 
-By leveraging data from raw CSV files, the dashboard transforms numbers into clear, actionable insights. It provides a 360° view of profit, sales, customers, and categories — enabling data-driven decision making 💡.  
+By leveraging data from raw CSV files, the dashboard transforms numbers into clear, actionable insights. It provides a 360° view of profit, sales, customers, and categories  enabling data-driven decision making 💡.  
 
 ---
 
