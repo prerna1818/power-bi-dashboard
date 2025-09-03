@@ -34,8 +34,8 @@ These strategies ensure the dashboard directly supports *profit maximization, cu
 ---
 
 ## 🛠️ Tools & Tech
-- Power BI Desktop* – Building the interactive dashboard & visuals.  
-- CSV Data Files* – Source of raw data.  
+- Power BI Desktop – Building the interactive dashboard & visuals.  
+- CSV Data Files – Source of raw data.  
     
 
 ---
